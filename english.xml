@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+	<string id="LookingUpdates">Looking for updates...</string>
+	<string id="Connecting">Connecting...</string>
+	<string id="UpdateFound">Update found. Select your operating system above to download the new version.</string>
+	<string id="ServerMaintenance">The ButSoccer Server is currently undergoing maintenance.</string>
+	<string id="ConnectError">There is a connection error. Check your internet and if there is one and it is fine, the problem is on our server, unfortunately.</string>
+	<string id="ConnectedWait">Connected... Wait...</string>
+
+	<string id="LoginTitle">Login</string>
+	<string id="UsernamePlaceholder">Username</string>
+	<string id="EmailPlaceholder">Email</string>
+	<string id="PasswordPlaceholder">Password</string>
+	<string id="TextButtonLogin">Login</string>
+	<string id="TextButtonRegister">Register</string>
+	<string id="TextButtonBack">Back</string>
+	<string id="AlertUserBanned">User Banned.</string>
+	<string id="AlertIncorrectUser">Incorrect Password or Username.</string>
+	<string id="AlertWait">Wait...</string>
+	<string id="TextLogging">Logging on to the central server...</string>
+
+	<string id="ExplicationCreateRoom0">ButSoccer uses the WebRTC system to connect players. When creating a room, you will be hosting a server for everyone using your internet to transmit data to each player. It is not recommended to create servers when you have slow connections, this will damage the entire gameplay, of all players.</string>
+	<string id="ExplicationCreateRoom1">Tip for you who want to open a server 24 hours in the game: if you have a VPS available (only if you already bought it or if you want to buy one), just open the game through the VPS, create a new account, create a room and then , leave 24/7 online. If the VPS service is good, it will support all players who enter the room without any problems.</string>
+	<string id="ExplicationCreateRoom2">Anyone who opens a server 24 hours a day (via VPS, Dedicated or local computer) can contact us and we will place you and your server as officers in the game credits as supporters. You are also free to build a local (country or continent) or even a global community.</string>
+	<string id="ExplicationCreateRoom3">Remember: If the host disconnects from the room, everyone will be disconnected as well.</string>
+	<string id="TextButtonCreateRoom">Create Room/Server</string>
+	<string id="TextButtonRefreshRoom">Refresh</string>
+	<string id="TitleCreateServer">Create Server</string>
+	<string id="TextDisplayServerName">Server Name</string>
+	<string id="TextDisplayLocation">Location Server</string>
+	<string id="TextDisplayGamemode">Gamemode</string>
+	<string id="TextPlayServer">Play Server</string>
+	<string id="TextPlayers">Players</string>
+	<string id="TextClubs">Clubs/Teams</string>
+	<string id="TextOptions">Options</string>
+	<string id="TextInformation">Information</string>
+	<string id="TextButtonCreateRoomNow">Create Server</string>
+	<string id="LogoutButton">Log Out</string>
+	<string id="TitleServerOnline">List of Rooms | Servers 24/7</string>
+
+	<!-- INFORMATION -->
+	<string id="ButtonTextAboutInfo">About and Information</string>
+	<string id="ButtonTextTutorial">Tutorial</string>
+	<string id="ButtonTextChangelog">Changelog</string>
+
+	<string id="AboutListView0">ButSoccer is a free game created by Vanelton Junnior and distributed under the name Butterfly Aquarium Studios on several platforms.</string>
+	<string id="AboutListView1">Thanks Kacper Wozniak for providing the free base of first characters used in the game.</string>
+	<string id="AboutListView2">Special thanks to Cartuchor for providing the complete base of current characters. | cartuchor.myportfolio.com/ | Twitter -> @Cartuchor1</string>
+	<string id="AboutListView3">All songs used in the game are under creative commons license.</string>
+
+	<string id="TutorialListView0">ButSoccer is a multiplayer game in which you control your player only in one football match, so obviously, because it is a football match, your goal is to help your team score goals and win the game.</string>
+	<string id="TutorialListView1">You move your character using the W-A-S-D keys on the keyboard. You can also configure a Gamepad in the settings (if you don't find the Gamepad settings, wait for an update).</string>
+	<string id="TutorialListView2">Use your mouse pointer to aim where you want to kick or pass the ball. However, you should know that the greater the distance from the pointer to your character, the weaker your kick / pass will be.</string>
+	<string id="TutorialListView3">You can also add effect to the ball, popularly known as the curve. When kicking, you can move the mouse in the direction you want the ball to curve. If you don't want to do this, keep the pointer still in the direction you kicked. You can curve as many times as you like, for as long as you like.</string>
+	<string id="TutorialListView4">Scoring the goal is not an easy task in the beginning, since our goalkeepers are not here to make fun (xD), always try to kick in the corner and with enough strength, so that they do not have speed to reach. Make a lot of use of the curve, but don't curve it towards the goalkeeper, always try to take the don't chance of goalkeeper touching the ball as much as possible.</string>
+	<string id="TutorialListView5">In the classic 6v6 mode and in some other futures / current ones, the ball does not leave the ground. This means that your passes and kicks will always be low, so use the curve a lot in your favor to make creative and smart passes.</string>
+
+</strings>
+
+<!--
+
+Function.Call("getText","")
+
+-->

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+	<string id="LookingUpdates">Procurando atualizações...</string>
+	<string id="Connecting">Conectando...</string>
+	<string id="UpdateFound">Há uma nova versão disponível. Selecione seu sistema e baixe agora mesmo.</string>
+	<string id="ServerMaintenance">O Servidor do ButSoccer está em manutenção.</string>
+	<string id="ConnectError">Erro de conexão, Verifique sua conexão com a internet. (Se sua conexão estiver boa, o problema está em nosso servidor, pedimos desculpas)</string>
+	<string id="ConnectedWait">Conectado. Aguarde...</string>
+
+	<string id="LoginTitle">Iniciar Sessão</string>
+	<string id="UsernamePlaceholder">Usuário</string>
+	<string id="EmailPlaceholder">Email</string>
+	<string id="PasswordPlaceholder">Senha</string>
+	<string id="TextButtonLogin">Entrar</string>
+	<string id="TextButtonRegister">Registrar</string>
+	<string id="TextButtonBack">Voltar</string>
+	<string id="AlertUserBanned">Usuário banido.</string>
+	<string id="AlertIncorrectUser">Senha ou usuário incorreto.</string>
+	<string id="AlertWait">Aguarde...</string>
+	<string id="TextLogging">Logando ao servidor central...</string>
+
+	<string id="ExplicationCreateRoom0">O ButSoccer utiliza o sistema WebRTC para conectar os jogadores. Ao criar uma sala, você estará hospedando um servidor para todos utilizando sua internet para transmitir os dados para cada jogador. Não é recomendável criar servidores quando se tem conexões lentas, isso prejudicará toda a gameplay, de todos os jogadores.</string>
+	<string id="ExplicationCreateRoom1">Dica para você que deseja abrir um servidor 24 horas no jogo: se você possui um VPS disponível (apenas se você já o comprou ou se deseja comprar um), basta abrir o jogo pelo VPS, criar uma nova conta, crie uma sala e, em seguida, deixe 24/7 online. Se o serviço VPS for bom, ele oferecerá suporte a todos os jogadores que entrarem na sala sem problemas.</string>
+	<string id="ExplicationCreateRoom2">Qualquer pessoa que abrir um servidor 24 horas por dia (via VPS, computador dedicado ou local) pode entrar em contato conosco e colocaremos você e seu servidor como oficiais nos créditos do jogo como apoiadores. Você também é livre para construir uma comunidade local (país ou continente) ou mesmo uma comunidade global.</string>
+	<string id="ExplicationCreateRoom3">Lembre-se: Se o host se desconectar da sala, todos serão desconectados também.</string>
+	<string id="TextButtonCreateRoom">Criar Servidor</string>
+	<string id="TextButtonRefreshRoom">Atualizar</string>
+	<string id="TitleCreateServer">Criar Servidor</string>
+	<string id="TextDisplayServerName">Nome do servidor</string>
+	<string id="TextDisplayLocation">Local do servidor</string>
+	<string id="TextDisplayGamemode">Gamemode</string>
+	<string id="TextPlayServer">Jogar</string>
+	<string id="TextPlayers">Jogadores</string>
+	<string id="TextClubs">Clubes</string>
+	<string id="TextOptions">Opções</string>
+	<string id="TextInformation">Informação</string>
+	<string id="TextButtonCreateRoomNow">Criar Servidor</string>
+	<string id="LogoutButton">Deslogar e Sair</string>
+	<string id="TitleServerOnline">Lista de Salas e Servidores 24h</string>
+
+	<!-- INFORMATION -->
+	<string id="ButtonTextAboutInfo">Informação Geral</string>
+	<string id="ButtonTextTutorial">Tutorial</string>
+	<string id="ButtonTextChangelog">Novidades</string>
+
+	<string id="AboutListView0">ButSoccer é um jogo gratuito criado por Vanelton Junnior e distribuído sob o nome de Butterfly Aquarium Studios em várias plataformas.</string>
+	<string id="AboutListView1">Obrigado Kacper Wozniak por fornecer a base gratuita dos primeiros personagens usados no jogo.</string>
+	<string id="AboutListView2">Agradecimentos especiais a Cartuchor por fornecer a base completa dos personagens atuais. | cartuchor.myportfolio.com/ | Twitter -> @ Cartuchor1</string>
+	<string id="AboutListView3">Todas as músicas usadas no jogo estão sob licença creative commons.</string>
+
+	<string id="TutorialListView0">O ButSoccer é um jogo multiplayer no qual você controla seu jogador apenas em uma partida de futebol; portanto, obviamente, por se tratar de uma partida de futebol, seu objetivo é ajudar seu time a marcar gols e vencer o jogo.</string>
+	<string id="TutorialListView1">Você move seu personagem usando as teclas W-A-S-D no teclado. Você também pode configurar um Gamepad nas configurações (se não encontrar as configurações do Gamepad, aguarde uma atualização).</string>
+	<string id="TutorialListView2">Use o ponteiro do mouse para apontar para onde deseja chutar ou passar a bola. No entanto, você deve saber que quanto maior a distância do ponteiro para o seu personagem, mais fraco será o seu chute / passe.</string>
+	<string id="TutorialListView3">Você também pode adicionar efeito à bola, conhecida popularmente como curva. Ao chutar, você pode mover o mouse na direção em que deseja que a bola se curve. Se você não quiser fazer isso, mantenha o ponteiro parado na direção em que você chutou. Você pode curvar quantas vezes quiser, pelo tempo que quiser.</string>
+	<string id="TutorialListView4">Marcar o gol não é uma tarefa fácil no começo, já que nossos goleiros não estão aqui para tirar sarro (xD), sempre tentam chutar no canto e com força suficiente, para que não tenham velocidade para alcançar. Faça muito uso da curva, mas não a faça na direção do goleiro, tente sempre não arriscar que o goleiro toque a bola o máximo possível.</string>
+	<string id="TutorialListView5">No modo clássico 6v6 e em alguns outros futuros / atuais, a bola não sai do chão. Isso significa que seus passes e chutes sempre serão baixos; portanto, use muito a curva a seu favor para fazer passes criativos e inteligentes.</string>
+
+</strings>
+
+<!--
+
+Function.Call("getText","")
+
+-->

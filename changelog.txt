@@ -1,0 +1,107 @@
+(29/07/2020) Version b0.4.1
+
+GAMEPLAY:
+- Chat communication problems solved
+
+GENERAL:
+- Nothing
+
+-------------------------------------------------------
+
+(28/07/2020) Version b0.4.0
+
+In this version very important things have been added for future servers, such as the console version, which is recommended for anyone who wants to create better quality servers on a VPS (or not). Also an improved goalkeeper intelligence.
+
+GAMEPLAY:
+- Fixed 20% left/right characters bug.
+- Added AI Smart Goalkeepers (Goalkeepers now catch the ball when it is slow in the area and without danger.) (Now Albinho will not be able to dribble the goalkeeper as before. >:D)
+- GKID was used to make post-touch corners in goalkeepers.
+- Players walk away when the goalkeeper catches the ball.
+- Updated admin architecture (Bugs can occur at the beginning, if you detect an unusual bug, let us know.)
+- Improved players' running physics.
+- Beginning of development of a new game mode, soon ... :D
+- Added Shirt Styles.
+
+GENERAL:
+- New Characters added on logo/menus
+- Added Console Edition (In this version there is no visual, all visual items and unnecessary codes were excluded, only the essentials were left, thus, making the game more fluid inside, saving machine processing to process only the players, game logic, sync, etc.)
+- Now it's official: HTML version (Browser) will be updated along with NW versions (PC)
+- Added Mod Graphics Support
+
+-------------------------------------------------------
+
+(13/07/2020) Version 0.3.1
+
+GAMEPLAY:
+- Fixed text synchronization bug
+- Added ID to goalkeepers
+
+GENERAL:
+- Language bug fixed
+- Added Image of the Month
+
+-------------------------------------------------------
+
+(09/07/2020) Version 0.3.0
+
+ButSoccer is no longer the same. Thanking Cartuchor again for the base of the characters. Now ButSoccer has a nice and beautiful look. With the lag compensator, the ball now does not move like a retard behind the player who caught it.
+
+GAMEPLAY:
+- Added new functions to Mobile (Coming Soon in Google Play)
+- Coming Soon Support Gamepad
+- Added New Characters and Textures
+- Fixed Bugs Gameplay/Multiplayer
+- Added lag compensation
+
+GENERAL:
+- ButSoccer New Visual
+- Added CSS Buttons
+- Added Menu Options with Sound Volume (Suggest by Aquaman)
+- Added Menu Players (All Players, Top Player & Profile (Beta))
+- Traslated more texts
+- Added 2 New Songs/Music
+
+-------------------------------------------------------
+
+(19/06/2020) Version 0.1.0
+
+GAMEPLAY:
+- Added new kick model
+- Enhanced multiplayer
+- Improved ball physics
+- Added Gamepad for android
+
+GENERAL:
+- New menu layout
+
+-------------------------------------------------------
+
+(07/06/2020) Version 0.0.5
+
+Finally, ButSoccer does not work so shamefully. Now, goalkeepers move to defend the ball when in danger. Chat and administrator settings have been added.
+
+GAMEPLAY:
+- Added Chat
+- Added Score and game information
+- Added Log Chat
+- Added new field texture
+
+GENERAL:
+- Added Menus
+
+-------------------------------------------------------
+
+(01/06/2020) Version 0.0.1 (What the f#ck is butsoccer?)
+
+Ok, this is being edited on 13/07/2020, but in this version, there was almost nothing, it was just a field and a player, and the multiplayer worked, but it failed like a wretch, everything was just tests, I was in a bad situation and wanted to learn new things to forget.
+
+GAMEPLAY:
+- Added Multiplayer based on P2P
+- Added fields and characters
+- Added input functions
+- Added Ball
+- Added Goalkeepers Base
+- Added all textures
+
+GENERAL:
+- NO HAVE MENU
